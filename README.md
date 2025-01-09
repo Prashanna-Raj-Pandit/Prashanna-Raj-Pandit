@@ -15,6 +15,20 @@ I am a passionate Computer Science graduate student at Southern Illinois Univers
 - ✍️ **Research Interests:** AI for automation and energy-efficient systems  
 
 ---
+## 🔬 Research Assistantship  
+
+🎓 **Southern Illinois University Edwardsville (SIUE)**  
+📍 *Edwardsville, IL*  
+📅 *January 2025 – Present*  
+
+As a **Research Assistant** at SIUE, I am working on advanced projects involving:  
+- **Feature Extraction:** Applying video processing techniques to analyze and extract meaningful features from visual data.  
+- **Predictive Modeling:** Developing machine learning models to make accurate predictions based on the extracted features.  
+- **Tools & Technologies:** Leveraging frameworks like **TensorFlow**, **OpenCV**, and **Python** to achieve efficient and scalable solutions.  
+- **Research Contributions:** Aiming to publish innovative findings that contribute to advancements in computer vision and artificial intelligence.  
+
+This role strengthens my expertise in data-driven problem-solving and fuels my passion for exploring the frontiers of AI and video analytics.
+---
 
 ## 🛠️ Tech Stack  
 
