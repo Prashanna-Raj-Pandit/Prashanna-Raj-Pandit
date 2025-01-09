@@ -1,6 +1,6 @@
 # Hi there, I'm Prashanna Raj Pandit 👋  
 
-![Banner](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)  
+![Banner](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 🌟 **Welcome to my GitHub!**  
 
@@ -35,27 +35,9 @@ I am a passionate Computer Science graduate student at Southern Illinois Univers
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
-
-## 🌟 Projects  
-
-### 🚀 [FootBalance Nepal Website](https://footbalancenepal.onrender.com/#home)  
-An e-commerce platform built with **Flask**, **HTML/CSS**, and **SheetyAPI** to support ergonomic footwear.  
-
-### 🔑 Blog Website with User Authentication  
-A personal blogging platform with **secure login features**, built using **Flask** and **PostgreSQL**.  
-
-### 🤖 Cookie Clicker Bot  
-An automated bot created using **Selenium** to maximize clicks for the Cookie Clicker game.  
-
-### 🌍 Waste Management System with IoT  
-Developed a **smart IoT solution** for efficient waste management using **ESP8266** and sensors.  
-
----
 
 ## 📊 GitHub Stats  
-
-![Prashanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashanna-Raj-Pandit&show_icons=true&theme=radical)  
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanna-Raj-Pandit&layout=compact&theme=radical)
 
 ---
