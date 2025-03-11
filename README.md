@@ -27,7 +27,6 @@ As a **Research Assistant** at SIUE, I am working on advanced projects involving
 - **Tools & Technologies:** Leveraging frameworks like **TensorFlow**, **OpenCV**, and **Python** to achieve efficient and scalable solutions.  
 - **Research Contributions:** Aiming to publish innovative findings that contribute to advancements in computer vision and artificial intelligence.  
 
-This role strengthens my expertise in data-driven problem-solving and fuels my passion for exploring the frontiers of AI and video analytics.
 ---
 
 ## 🛠️ Tech Stack  
