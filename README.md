@@ -58,10 +58,3 @@ This role strengthens my expertise in data-driven problem-solving and fuels my p
 
 - 🌐 [Portfolio](https://prashannaraj.com.np/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/prashanna-raj-pandit-1576b7237/)  
-- 🐙 [GitHub](https://github.com/Prashanna-Raj-Pandit)  
-
----
-
-![Footer](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
-
-🌟 *"Turning ideas into reality, one line of code at a time."*
