@@ -5,7 +5,7 @@
 I am a passionate Computer Science graduate student at Southern Illinois University Edwardsville (SIUE), where I specialize in AI, Machine Learning, and Backend Development. My journey is all about creating innovative solutions and learning every day. Here's a little more about me:  
 
 ---
-## 🔬 Research Assistantship  
+## 🔬 Research Assistant  
 
 🎓 **Southern Illinois University Edwardsville (SIUE)**  
 📍 *Edwardsville, IL*  
