@@ -5,27 +5,11 @@
 I am a passionate Computer Science graduate student at Southern Illinois University Edwardsville (SIUE), where I specialize in AI, Machine Learning, and Backend Development. My journey is all about creating innovative solutions and learning every day. Here's a little more about me:  
 
 ---
-
-## 🚀 About Me  
-
-- 🎓 **Graduate Student:** SIUE, Master's in Computer Science  
-- 🛠️ **Skills:** Python, Flask, TensorFlow, OpenCV, Docker, SQL, PostgresSQL, CNN, Pandas, YOLO, RestAPI  
-- 🏆 **Achievements:** Winner of All Nepal Hackathon 2023, Best Paper Award ICT-CEEL 2023  
-- 🌱 **Currently Learning:** Advanced AI and Cloud Development  
-- ✍️ **Research Interests:** AI for automation and energy-efficient systems  
-
----
 ## 🔬 Research Assistantship  
 
 🎓 **Southern Illinois University Edwardsville (SIUE)**  
 📍 *Edwardsville, IL*  
 📅 *January 2025 – Present*  
-
-As a **Research Assistant** at SIUE, I am working on advanced projects involving:  
-- **Feature Extraction:** Applying video processing techniques to analyze and extract meaningful features from visual data.  
-- **Predictive Modeling:** Developing machine learning models to make accurate predictions based on the extracted features.  
-- **Tools & Technologies:** Leveraging frameworks like **TensorFlow**, **OpenCV**, and **Python** to achieve efficient and scalable solutions.  
-- **Research Contributions:** Aiming to publish innovative findings that contribute to advancements in computer vision and artificial intelligence.  
 
 ---
 
