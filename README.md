@@ -1,8 +1,6 @@
 # Hi there, I'm Prashanna Raj Pandit 👋  
 
-🌟 **Welcome to my GitHub!**  
-
-I am a passionate Computer Science graduate student at Southern Illinois University Edwardsville (SIUE), where I specialize in AI, Machine Learning, and Backend Development. My journey is all about creating innovative solutions and learning every day. Here's a little more about me:  
+I am a passionate Computer Science graduate student at Southern Illinois University Edwardsville (SIUE), where I explore AI, Machine Learning, and Backend Development. My journey is all about learning every day. Here's a little more about me:  
 
 ---
 ## 🔬 Research Assistant  
@@ -29,15 +27,3 @@ I am a passionate Computer Science graduate student at Southern Illinois Univers
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
-
-## 📊 GitHub Stats  
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanna-Raj-Pandit&layout=compact&theme=radical)
-
----
-
-## 📫 Contact Me  
-
-- 🌐 [Portfolio](https://prashannaraj.com.np/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/prashanna-raj-pandit-1576b7237/)  
