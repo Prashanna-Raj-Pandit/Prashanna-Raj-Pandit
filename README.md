@@ -29,6 +29,7 @@ I am a passionate Computer Science graduate student at Southern Illinois Univers
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-## 🏆 GitHub Trophy
+## 📊 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Prashanna-Raj-Pandit&theme=monokai&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashanna-Raj-Pandit&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanna-Raj-Pandit&layout=compact&theme=radical)
