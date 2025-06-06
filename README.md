@@ -31,4 +31,4 @@ I am a passionate Computer Science graduate student at Southern Illinois Univers
 
 ## 🏆 GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=monokai&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Prashanna-Raj-Pandit&theme=monokai&column=7)](https://github.com/ryo-ma/github-profile-trophy)
