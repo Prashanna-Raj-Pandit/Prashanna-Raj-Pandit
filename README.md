@@ -28,3 +28,10 @@ I am a passionate Computer Science graduate student at Southern Illinois Univers
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+
+## 📊 GitHub Stats
+
+![GitHub Commits](https://img.shields.io/badge/Total%20Commits-💻-blue?style=for-the-badge&logo=github)
+![GitHub Stars](https://img.shields.io/badge/Stars-⭐️-brightgreen?style=for-the-badge&logo=github)
+![GitHub Forks](https://img.shields.io/badge/Forks-🍴-yellow?style=for-the-badge&logo=github)
+
