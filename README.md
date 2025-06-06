@@ -30,7 +30,6 @@ I am a passionate Computer Science graduate student at Southern Illinois Univers
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashanna-Raj-Pandit&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanna-Raj-Pandit&layout=compact&theme=radical)
