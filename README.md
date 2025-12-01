@@ -5,6 +5,8 @@ I am a passionate Computer Science graduate student at Southern Illinois Univers
 Check out my resume [here](./resume.pdf).  
 
 ---
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Prashanna-Raj-Pandit)
+
 ## 🔬 Research Assistant  
 
 🎓 **Southern Illinois University Edwardsville (SIUE)**  
