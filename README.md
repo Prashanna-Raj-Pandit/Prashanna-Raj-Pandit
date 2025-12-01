@@ -7,8 +7,6 @@ Check out my resume [here](./resume.pdf).
 ---
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Prashanna-Raj-Pandit)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Prashanna-Raj-Pandit&color=blue)
-
 
 ## 🔬 Research Assistant  
 
