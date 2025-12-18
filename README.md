@@ -8,7 +8,7 @@ Check out my resume [here](./resume.pdf).
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Prashanna-Raj-Pandit)
 
 
-### Research Assistant at *Southern Illinois University Edwardsville (SIUE)*
+### 🧑🏻‍🔬 Research Assistant at *Southern Illinois University Edwardsville (SIUE)*
 
 ---
 ## 🛠️ Tech Stack  
