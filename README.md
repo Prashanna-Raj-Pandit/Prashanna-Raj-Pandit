@@ -3,7 +3,24 @@
 I am a passionate Computer Science graduate student at Southern Illinois University Edwardsville (SIUE), where I explore AI, Machine Learning, and Backend Development. My journey is all about learning every day. Here's a little more about me:  
 
 Check out my resume [here](./resume.pdf).  
+<br />
+<div align="center">
+  <a href="https://prashanna.vercel.app/">
+    <img src="[static/images/readme/prashanna.png](https://raw.githubusercontent.com/Prashanna-Raj-Pandit/Personal-Site-with-Render/refs/heads/main/static/images/readme/prashanna.png)" alt="Logo" width="250" height="60">
+  </a>
 
+  <h3 align="center">Prashanna's Portfolio</h3>
+
+  <p align="center">
+    View my projects and publications at
+    <br />
+    <a href="https://prashanna.vercel.app/"><strong>https://prashanna.vercel.app/</strong></a>
+    <br />
+    <a href="https://prashannaraj.com.np/"><strong>https://prashannaraj.com.np/</strong></a>
+    <br />
+    <br />
+  </p>
+</div>
 ---
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Prashanna-Raj-Pandit)
 
