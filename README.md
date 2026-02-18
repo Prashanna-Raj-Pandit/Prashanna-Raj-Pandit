@@ -4,8 +4,7 @@ I am a passionate Computer Science graduate student at Southern Illinois Univers
 
 Check out my resume [here](./resume.pdf).  
 
-![https://prashanna.vercel.app](https://prashanna.vercel.app/)
-![https://prashannaraj.com.np](https://prashannaraj.com.np/)
+### Websute [https://prashanna.vercel.app](https://prashanna.vercel.app/) [https://prashannaraj.com.np](https://prashannaraj.com.np/)
 
 ---
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Prashanna-Raj-Pandit)
